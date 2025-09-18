@@ -1,3 +1,5 @@
 # quran_recall_mobile
 
-A new Flutter project.
+Quran Recall App for mobile (WIP)
+
+Version: QR-V1.2
