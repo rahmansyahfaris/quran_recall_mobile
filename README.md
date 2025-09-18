@@ -2,4 +2,4 @@
 
 Quran Recall App for mobile (WIP)
 
-Version: QR-V1.2
+Version: QR-V1.3
